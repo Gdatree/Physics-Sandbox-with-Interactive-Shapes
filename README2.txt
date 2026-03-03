@@ -13,3 +13,8 @@ RUSSIAN
 Объекты имеют разные цвета: синий куб, зелёный шар, розовый шар, жёлтый треугольник.
 Отлично подходит для экспериментов с физикой, упругостью, трением
 и интерактивными механиками в реальном времени.
+
+DONT FORGOT ABOUT INSTALL 
+pip install pygame
+pip install pymunk
+pip install pygame pymunk psutil
